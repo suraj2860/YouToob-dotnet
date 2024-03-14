@@ -1,0 +1,6 @@
+@YouToob_HostAddress = http://localhost:5240
+
+GET {{YouToob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
